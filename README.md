@@ -27,10 +27,10 @@ Vasanth R
 ## Output Screenshots
 
 ### Task 1 - Online Reservation System
-![Task 1](task1.png)
+![Task 1](./Screenshot%202026-09-26%20180105.png)
 
 ### Task 2 - Number Guessing Game
-![Task 2](task2.png)
+![Task 2](./Screenshot%202026-09-28%20213134.png)
 
 ### Task 3 - ATM Interface
-![Task 3](task3.png)
+![Task 3](./Screenshot%202026-09-28%20213813.png)
