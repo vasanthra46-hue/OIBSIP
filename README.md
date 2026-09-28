@@ -21,5 +21,5 @@ A Java-based ATM interface for basic banking operations such as balance checking
 - GitHub
 
 ## Author
-Vasanth  
+Vasanth R
 2nd Year - Computer Science and Engineering (CSE)
