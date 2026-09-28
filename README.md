@@ -27,9 +27,8 @@ Vasanth R
 
 ### Task 1 - Online Reservation System
 ![Task 1 Output](Screenshot%202026-09-26%20180105.png)
-
 ### Task 2 - Number Guessing Game
-![Task 2 Output](Screenshot%202026-09-28%20211314.png)
+![Task 2 Output](<Screenshot 2026-09-28 211314.png>)
 
 ### Task 3 - ATM Interface
-![Task 3 Output](Screenshot%202026-09-28%20213131.png)
+![Task 3 Output](<Screenshot 2026-09-28 213131.png>)
